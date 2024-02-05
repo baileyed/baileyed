@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-<!--
-**baileyed/baileyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)>
 
-Here are some ideas to get you started:
+Hello, I'm Elizabeth. Data scientist with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hello, I'm Elizabeth. 
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
 
-Projects
+### 📚 Projects
 
-Tools
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
-Connect with Me
+### 🛠️ Tools
+
+- Language: Python, Matlab, R
+<- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio>
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/elizabeth-d-bailey/)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~01fbe3e0cd2ad539ea)
