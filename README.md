@@ -11,7 +11,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/baile
 ### 🛠️ Tools
 
 - Languages: Python, Matlab, R
-<!--Database: Google BigQuery, PostgreSQL, MySQL Visualization: Tableau, Looker Studio--!>
 
 ### 👋🏻 Connect with Me
 
