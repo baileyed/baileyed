@@ -1,8 +1,7 @@
+![Red and Gray LinkedIn Banner](https://github.com/baileyed/baileyed/blob/main/linkedin_banner.png)
 ### Hi there 👋
 
-![Red and Gray LinkedIn Banner](https://github.com/baileyed/baileyed/blob/main/linkedin_banner.png)
-
-Hello, I'm Elizabeth: A physical oceanographer with a passion for data analysis, visualization, and reporting.
+Hello, I'm Elizabeth: A physical oceanographer passionate about data analysis, visualization, and reporting, as well as experience with numerical modeling.
 
 ### 📚 Projects
 
