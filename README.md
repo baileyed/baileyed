@@ -14,4 +14,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/baile
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/elizabeth-d-bailey/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~01fbe3e0cd2ad539ea)
+<!-- - Hire me on [Upwork](https://www.upwork.com/freelancers/~01fbe3e0cd2ad539ea)
